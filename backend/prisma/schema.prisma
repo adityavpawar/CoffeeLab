@@ -50,7 +50,7 @@ model Problem{
     example Json
     contraints String
     hints String?
-     editorial String?
+    editorial String?
 
     testcases Json
     codeSnippets Json
